@@ -47,7 +47,9 @@ Shapeshift is maintained by [We The Media, inc.](http://wtmworldwide.com/)
 Sites Using Shapeshift
 ----------------------
 
-Got a project that you are using shapeshift on? Let us know and we will happily throw a link to your page here!
+Got a project that you are using shapeshift on? Let us know and we will happily throw a link to your page here
+
+- http://logosmile.tumblr.com
 
 
 For Contributors
